@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="center">👋 Hello, I'm RiverLee</h1>
+<h1 align="center">👋 Hello, I'm Giang Le</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -91,7 +91,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
  
   <img src="https://streak-stats.demolab.com/?user=GiangLe1999&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiangLe1999&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiangLe1999&custom_title=Giang+Le's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
@@ -120,25 +120,25 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
   <table>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/GiangLe1999/NextJS_Elearning_Client">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RiverLee&repo=NextJS_Elearning_Client&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/weather-app-3d">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=weather-app-3d&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/GiangLe1999/NodeJS_Elearning_Server">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiangLe1999&repo=NodeJS_Elearning_Server&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/GiangLe1999/Blog_Vs_Portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiangLe1999&repo=Blog_Vs_Portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/GiangLe1999/New_Peugeot_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiangLe1999&repo=New_Peugeot_2&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
