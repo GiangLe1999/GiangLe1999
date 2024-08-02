@@ -31,8 +31,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/riverlee/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Friverlee%2F&subtitle=@riverlee&size=square" alt="riverlee">
+      <a href="https://www.instagram.com/dulich4phuong_online/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Friverlee%2F&subtitle=@riverlee&size=square" alt="RiverLee">
       </a>
     </td>
     <td align="center">
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://twitch.tv/knightgamer2910" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square" alt="knightgamer2910">
+      <a href="https://www.twitch.tv/dulich4phuong" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%dulich4phuong&subtitle=@dulich4phuong&size=square" alt="RiverLee">
       </a>
     </td>
     <td align="center">
       <a href="https://x.com/gain_kenan" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="KenanGain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="RiverLee">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square" alt="Automated_Artistry">
+      <a href="https://www.reddit.com/user/riverlee" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%RiverLee&subtitle=r/RiverLee&size=square" alt="RiverLee">
       </a>
     </td>
     <td align="center">
       <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="Knight Gamer">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="RiverLee">
       </a>
     </td>
     <td align="center">
@@ -110,7 +110,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GiangLe1999&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=GiangLe1999&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="GiangLe1999's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiangLe1999&theme=highcontrast&hide_border=true">
 
@@ -121,7 +121,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
     <tr>
       <td>
         <a href="https://github.com/GiangLe1999/NextJS_Elearning_Client">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RiverLee&repo=NextJS_Elearning_Client&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiangLe1999&repo=NextJS_Elearning_Client&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
@@ -149,56 +149,10 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=GiangLe1999&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 </div>
-
-<h2 align="center">Socials Stats</h2>
-
-<div align="center">
-<div align="center">
-  <table style="border: none;">
-    <tr>
-  <td align="center" style="border: none;">
-        <a href="https://www.instagram.com/knightgamer87/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-        <div>
-          <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-230%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
-        </div>
-      </td>
-      <td align="center" style="border: none;">
-  <a href="https://discord.gg/YdDyV6QqEN">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
-    <div align="center">
-      <div>
-      <img src="https://img.shields.io/badge/Discord-110%2B%20members-7289DA?style=flat-square&logo=discord" alt="Discord Members">
-      </div>
-      <div>
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
-    </div>
-      </div>
-  </a>
-       </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">YouTube Stats</h3>
-
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
-
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?border=0&radius=20"/>
-</p>
-
-<h3 align="center">Steam Profile</h3>
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198828144879/">
-  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
-  </a>
-</p>
 
 <table>
   <tr>
@@ -214,8 +168,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
   <tr>
     <!-- Dev Profile -->
     <td align="center">
-      <a href="https://app.daily.dev/kenangain">
-        <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="RiverLee's Dev Card"/>
+<a href="https://app.daily.dev/lthanhgiang"><img src="https://api.daily.dev/devcards/v2/AjQyo81I4wy9oBxYFU4iz.png?type=default&r=er9" width="356" alt="Lê Thanh Giang's Dev Card"/></a>
       </a>
     </td>
     <!-- roadmap.sh Profile -->
@@ -224,13 +177,6 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
     </td>
   </tr>
 </table>
-
-<h3 align="center">Stack overflow</h3>
-<div align="center">
-<a href="https://stackoverflow.com/users/21519409/kenan-gain">
-<img src="https://stackoverflow.com/users/flair/21519409.png" width="208" height="58" />
-</a>
-</div>
 
 </div>
 
@@ -316,7 +262,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+        <img src="https://skillicons.dev/icons?i=nest" width="50" height="50" alt="Flask"/><br>NestJS
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
@@ -622,95 +568,23 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
   </tr>
 </table>
 
-<h2 align="center">🎵 My Spotify Playlist</h2>
-
-Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
-
-<p align="center">
-<a href="https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
-</a>
-
-</p>
-
-<h5 align="center">Enjoy the tunes!</h5>
-
-<h3 align="center"> Top Artists of Playlist </h3>
-
-<div align="center">
-<div style="text-align:center"><img src="https://card.elwan.ch/?username=31hah4yq6es2tjearprp6ir2bmhi" /></div>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hah4yq6es2tjearprp6ir2bmhi&count=5">
-    </td>
-    <td>
-      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<h2 align="center">Support Me</h2>
-<div align="center">
-  <table align="center">
-    <tr>
-      <th align="center">
-        <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
-          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://donate.stripe.com/00gg0R3Kvh0HcGkfYY" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://ko-fi.com/M4M410M65J" target="_blank">
-          <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-        </a>
-      </th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-       <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://storage.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
-      </td>
-    </tr>
-  </table>
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="RiverLee" style="margin: 10px;">
+      <a href="mailto:legiangbmt09@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=legiangbmt09@gmail.com&size=square" alt="RiverLee" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" alt="Canada-+1-437-436-4786" style="margin: 10px;">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Vietnam-84962334807&size=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Vietnam-84962334807&size=square" alt="Vietnam-+84-962-334-807" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
       <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-+91-820-028-0008" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="Vietnam-+84-962-334-807" style="margin: 10px;">
       </a>
     </td>
   </tr>
@@ -721,7 +595,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
+⭐️ From [GiangLe1999](https://github.com/GiangLe1999) | Let's innovate together! 🚀
 
 </div>
 </h3>
